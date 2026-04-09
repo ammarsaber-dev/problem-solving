@@ -1,0 +1,21 @@
+// https://codeforces.com/problemset/problem/282/A
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x = 0;
+
+    int n;
+    cin >> n;
+    for(int i = 0; i < n; i++) {
+        string op;
+        cin >> op;
+
+        if(op[1] == '+') x++;
+        else x--;
+    }
+
+    cout << x << endl;
+    return 0;
+}
