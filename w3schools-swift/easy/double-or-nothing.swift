@@ -1,5 +1,4 @@
 /*
-# Practice Swift Conditions: Double or Nothing
 Double a number if it is positive, otherwise print zero.
 
 Instructions:
