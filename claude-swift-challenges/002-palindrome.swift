@@ -44,4 +44,8 @@ func isPalindrome(_ s: String) -> Bool {
 //     return s == String(s.reversed())
 // }
 
-print(isPalindrome("Racecar"))
+assert(isPalindrome("") == true)
+assert(isPalindrome("racecar") == true)
+assert(isPalindrome("hello") == false)
+assert(isPalindrome("A man, a plan, a canal: Panama") == true)
+print("All tests passed ✅")
