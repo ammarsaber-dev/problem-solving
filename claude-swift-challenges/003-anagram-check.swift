@@ -83,6 +83,11 @@ func runTests() {
         ("Debit Card", "Bad Credit", true, "Internal Spaces"),
         ("café", "facé", true, "Unicode Support"),
         ("", "", true, "Empty Strings"),
+        ("a", "aa", false, "Different lengths"),
+        ("abc", "xyz", false, "No chars in common"),
+        ("a", "", false, "One empty one not"),
+        ("Hello", "hello", true, "Case insensitive"),
+        ("AB CD", "DCBA", true, "Spaces + uppercase"),
     ]
 
     print("--- [ CHALLENGE #003: ANAGRAM CHECK ] ---")
