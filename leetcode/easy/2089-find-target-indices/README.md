@@ -1,6 +1,6 @@
 # 2089 - Find Target Indices After Sorting Array
 
-Tags:
+**Tags:** 
 
 ## Problem
 
@@ -8,25 +8,16 @@ You are given a 0-indexed integer array `nums` and a target element `target`. A 
 
 Return a list of the target indices of nums after sorting nums in non-decreasing order. If there are no target indices, return an empty list. The returned list must be sorted in increasing order.
 
-```
-Example 1:
-Input:  nums = [1,2,5,2,3], target = 2
-Output: [1,2]
-Explanation: After sorting, nums is [1,2,2,3,5].
-The indices where nums[i] == 2 are 1 and 2.
+## Examples
 
-Example 2:
-Input:  nums = [1,2,5,2,3], target = 3
-Output: [3]
-Explanation: After sorting, nums is [1,2,2,3,5].
-The index where nums[i] == 3 is 3.
+| Input | Output |
+|-------|--------|
+| `nums = [1,2,5,2,3], target = 2` | `[1,2]` |
+| `nums = [1,2,5,2,3], target = 3` | `[3]` |
+| `nums = [1,2,5,2,3], target = 5` | `[4]` |
 
-Example 3:
-Input:  nums = [1,2,5,2,3], target = 5
-Output: [4]
-```
+## Constraints
 
-Constraints:
 - `1 <= nums.length <= 100`
 - `1 <= nums[i], target <= 100`
 

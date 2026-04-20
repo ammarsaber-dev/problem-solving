@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7abee81ae6796b9a",
+        "id": "ad72de1c32f685a2",
         "type": "tabs",
         "children": [
           {
-            "id": "76619b1cf41d0d08",
+            "id": "c363acbdd6d56b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codeforces/README.md",
-                "mode": "preview",
+                "file": "leetcode/easy/20-valid-parentheses/README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,13 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "76619b1cf41d0d08",
+  "active": "c363acbdd6d56b5c",
   "lastOpenFiles": [
+    "leetcode/easy/20-valid-parentheses/solution.swift",
+    "leetcode/easy/217-contains-duplicate/README.md",
+    "leetcode/easy/20-valid-parentheses/README.md",
+    "leetcode/easy/20-valid-parentheses",
+    "codeforces/README.md",
     "README.md",
     "exercism/README.md",
     "swift",
     "leetcode/README.md",
-    "codeforces/README.md",
     "leetcode/easy/242-valid-anagram/README.md",
     "leetcode/easy/1295-find-numbers-with-even-digits/README.md",
     "advent-of-code/README.md"

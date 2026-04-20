@@ -1,22 +1,20 @@
 # 242 - Valid Anagram
 
-Tags:
+**Tags:** 
 
 ## Problem
 
 Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`.
 
-```
-Example 1:
-Input:  s = "anagram", t = "nagaram"
-Output: true
+## Examples
 
-Example 2:
-Input:  s = "rat", t = "car"
-Output: false
-```
+| Input | Output |
+|-------|--------|
+| `s = "anagram", t = "nagaram"` | `true` |
+| `s = "rat", t = "car"` | `false` |
 
-Constraints:
+## Constraints
+
 - `1 <= s.length, t.length <= 5 * 10^4`
 - `s` and `t` consist of lowercase English letters
 

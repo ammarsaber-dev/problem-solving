@@ -1,6 +1,6 @@
 # 275 - H-Index II
 
-Tags:
+**Tags:** 
 
 ## Problem
 
@@ -10,21 +10,15 @@ According to the definition of h-index on Wikipedia: The h-index is defined as t
 
 **You must write an algorithm that runs in logarithmic time.**
 
-```
-Example 1:
-Input:  citations = [0,1,3,5,6]
-Output: 3
-Explanation: The researcher has 5 papers with citations [0,1,3,5,6].
-3 papers have at least 3 citations each, and remaining have at most 3.
-So h-index is 3.
+## Examples
 
-Example 2:
-Input:  citations = [1,2,100]
-Output: 2
-Explanation: 2 papers have at least 2 citations each.
-```
+| Input | Output |
+|-------|--------|
+| `citations = [0,1,3,5,6]` | `3` |
+| `citations = [1,2,100]` | `2` |
 
-Constraints:
+## Constraints
+
 - `n == citations.length`
 - `1 <= n <= 10^5`
 - `0 <= citations[i] <= 1000`
