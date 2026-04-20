@@ -1,9 +1,25 @@
 # Problem Solving
 
-My solutions to programming problems and exercises.
+My journey through coding problems. Each problem has its own folder with my solution and personal notes.
 
-## Contents
+## Platforms
 
-- [`exercism/`](./exercism/) – Solutions to [Exercism](https://exercism.org) exercises
-- [`codeforces/`](./codeforces/) – Solutions to [Codeforces](https://codeforces.com) problems
-- [`w3schools-swift/`](./w3schools-swift/) - Solutions to [W3Schools - Practice Swift Coding](https://www.w3schools.com/practice/practice_swift.php) problems
+| Platform                    | Problems | Rating        |
+| --------------------------- | -------- | ------------- |
+| [LeetCode](./leetcode/)     | 8        | Easy / Medium |
+| [Codeforces](./codeforces/) | 27       | 800 / 900     |
+| [Exercism](./exercism/)     | 23       | Swift track   |
+
+Planned: advent-of-code
+
+## Structure
+
+**LeetCode / Codeforces:**
+
+```
+problem-folder/
+├── README.md       # My thinking, notes, and tags
+└── solution.swift # or solution.cpp
+```
+
+**Exercism:** Uses standard Exercism format with Tests included.
