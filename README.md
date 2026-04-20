@@ -4,21 +4,18 @@ My journey through coding problems. Each problem has its own folder with my solu
 
 ## Platforms
 
-| Platform                    | Problems | Rating        |
-| --------------------------- | -------- | ------------- |
-| [LeetCode](./leetcode/)     | 8        | Easy / Medium |
-| [Codeforces](./codeforces/) | 27       | 800 / 900     |
-| [Exercism](./exercism/)     | 23       | Swift track   |
+- [LeetCode](./leetcode/)
+- [Codeforces](./codeforces/)
+- [Exercism](./exercism/)
 
-Planned: advent-of-code
+Planned: Advent of Code
 
 ## Structure
 
 **LeetCode / Codeforces:**
-
 ```
 problem-folder/
-├── README.md       # My thinking, notes, and tags
+├── README.md       # Problem + My Notes + Tags
 └── solution.swift # or solution.cpp
 ```
 

@@ -1,22 +1,20 @@
-// https://codeforces.com/problemset/problem/116/A
-
 #include <algorithm>
 #include <iostream>
+using namespace std;
 
 int main() {
-  int n;
-  std::cin >> n;
+    int n;
+    cin >> n;
 
-  int p = 0, max = 0;
+    int p = 0, max = 0;
 
-  for (int i = 0; i < n; i++) {
-    int a, b;
-    std::cin >> a >> b;
+    for (int i = 0; i < n; i++) {
+        int a, b;
+        cin >> a >> b;
+        p = p + b - a;
+        max = max(max, p);
+    }
 
-    p = p + b - a;
-    max = std::max(max, p);
-  }
-
-  std::cout << max;
-  return 0;
+    cout << max;
+    return 0;
 }

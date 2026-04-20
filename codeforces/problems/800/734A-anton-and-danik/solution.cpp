@@ -1,21 +1,20 @@
-// https://codeforces.com/problemset/problem/734/A
-
 #include <algorithm>
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::string s;
-    std::cin >> s >> s;
+    string s;
+    cin >> s >> s;
 
-    int a = std::count(s.begin(), s.end(), 'A');
-    int d = std::count(s.begin(), s.end(), 'D');
+    int a = count(s.begin(), s.end(), 'A');
+    int d = count(s.begin(), s.end(), 'D');
 
-    if(a > d) {
-        std::cout << "Anton";
-    } else if(a < d) {
-        std::cout << "Danik";
+    if (a > d) {
+        cout << "Anton";
+    } else if (a < d) {
+        cout << "Danik";
     } else {
-        std::cout << "Friendship";
+        cout << "Friendship";
     }
 
     return 0;

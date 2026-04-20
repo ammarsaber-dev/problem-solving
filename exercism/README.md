@@ -1,34 +1,27 @@
 # Exercism (Swift)
 
-| # | Exercise |
-|---|----------|
-| 1 | [hello-world](./swift/hello-world/) |
-| 2 | [leap](./swift/leap/) |
-| 3 | [gigasecond](./swift/gigasecond/) |
-| 4 | [rna-transcription](./swift/rna-transcription/) |
-| 5 | [difference-of-squares](./swift/difference-of-squares/) |
-| 6 | [lasagna](./swift/lasagna/) |
-| 7 | [log-lines](./swift/log-lines/) |
-| 8 | [vehicle-purchase](./swift/vehicle-purchase/) |
-| 9 | [secret-agent](./swift/secret-agent/) |
-| 10 | [bird-watcher](./swift/bird-watcher/) |
-| 11 | [high-score-board](./swift/high-score-board/) |
-| 12 | [lasagna-master](./swift/lasagna-master/) |
-| 13 | [custom-signs](./swift/custom-signs/) |
-| 14 | [chessboard](./swift/chessboard/) |
-| 15 | [bomb-defuser](./swift/bomb-defuser/) |
-| 16 | [windowing-system](./swift/windowing-system/) |
-| 17 | [wings-quest](./swift/wings-quest/) |
-| 18 | [freelancer-rates](./swift/freelancer-rates/) |
-| 19 | [santas-helper](./swift/santas-helper/) |
-| 20 | [magician-in-training](./swift/magician-in-training/) |
-| 21 | [pizza-slices](./swift/pizza-slices/) |
-| 22 | [poetry-club](./swift/poetry-club/) |
-| 23 | [expert-mixologist](./swift/expert-mixologist/) |
-
-**Total: 23 exercises**
-
-Each exercise includes:
-- Problem description (README.md)
-- Solution code (Sources/)
-- Test suite (Tests/)
+| Exercise                                                | Status |
+| ------------------------------------------------------- | ------ |
+| [hello-world](./swift/hello-world/)                     | [x]    |
+| [leap](./swift/leap/)                                   | [x]    |
+| [gigasecond](./swift/gigasecond/)                       | [x]    |
+| [rna-transcription](./swift/rna-transcription/)         | [x]    |
+| [difference-of-squares](./swift/difference-of-squares/) | [x]    |
+| [lasagna](./swift/lasagna/)                             | [x]    |
+| [log-lines](./swift/log-lines/)                         | [x]    |
+| [vehicle-purchase](./swift/vehicle-purchase/)           | [x]    |
+| [secret-agent](./swift/secret-agent/)                   | [x]    |
+| [bird-watcher](./swift/bird-watcher/)                   | [x]    |
+| [high-score-board](./swift/high-score-board/)           | [x]    |
+| [lasagna-master](./swift/lasagna-master/)               | [x]    |
+| [custom-signs](./swift/custom-signs/)                   | [x]    |
+| [chessboard](./swift/chessboard/)                       | [x]    |
+| [bomb-defuser](./swift/bomb-defuser/)                   | [x]    |
+| [windowing-system](./swift/windowing-system/)           | [x]    |
+| [wings-quest](./swift/wings-quest/)                     | [x]    |
+| [freelancer-rates](./swift/freelancer-rates/)           | [x]    |
+| [santas-helper](./swift/santas-helper/)                 | [x]    |
+| [magician-in-training](./swift/magician-in-training/)   | [x]    |
+| [pizza-slices](./swift/pizza-slices/)                   | [x]    |
+| [poetry-club](./swift/poetry-club/)                     | [x]    |
+| [expert-mixologist](./swift/expert-mixologist/)         | [x]    |

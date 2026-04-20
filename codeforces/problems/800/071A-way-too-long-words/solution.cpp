@@ -1,5 +1,3 @@
-// https://codeforces.com/problemset/problem/71/A
-
 #include <iostream>
 #include <string>
 using namespace std;
@@ -11,7 +9,6 @@ bool isTooLong(const string& w) {
 string shortenWord(const string& w) {
     char firstLetter = w[0];
     char lastLetter = w[w.length() - 1];
-
     return firstLetter + to_string(w.length() - 2) + lastLetter;
 }
 
@@ -22,7 +19,7 @@ int main() {
         string word;
         cin >> word;
 
-        if(!isTooLong(word))
+        if (!isTooLong(word))
             cout << word << endl;
         else
             cout << shortenWord(word) << endl;

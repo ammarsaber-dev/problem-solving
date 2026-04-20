@@ -1,8 +1,7 @@
-// https://codeforces.com/problemset/problem/281/A
-
 #include <cctype>
 #include <iostream>
 using namespace std;
+
 int main() {
     string input;
     cin >> input;
