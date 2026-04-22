@@ -1,5 +1,7 @@
 # 1672 - Richest Customer Wealth
 
+**URL:** https://leetcode.com/problems/richest-customer-wealth/
+
 **Tags:** 
 
 ## Problem
@@ -8,7 +10,7 @@ You are given an `m x n` integer grid `accounts` where `accounts[i][j]` is the a
 
 A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
 
-## Examples
+### Examples
 
 | Input | Output |
 |-------|--------|
@@ -16,12 +18,10 @@ A customer's wealth is the amount of money they have in all their bank accounts.
 | `accounts = [[1,5],[7,3],[3,5]]` | `10` |
 | `accounts = [[2,8,7],[7,1,3],[1,9,5]]` | `17` |
 
-## Constraints
+### Constraints
 
 - `1 <= m, n <= 100`
 - `1 <= accounts[i][j] <= 100`
-
-**URL:** https://leetcode.com/problems/richest-customer-wealth/
 
 ---
 

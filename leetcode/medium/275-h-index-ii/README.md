@@ -1,5 +1,7 @@
 # 275 - H-Index II
 
+**URL:** https://leetcode.com/problems/h-index-ii/
+
 **Tags:** 
 
 ## Problem
@@ -10,21 +12,19 @@ According to the definition of h-index on Wikipedia: The h-index is defined as t
 
 **You must write an algorithm that runs in logarithmic time.**
 
-## Examples
+### Examples
 
 | Input | Output |
 |-------|--------|
 | `citations = [0,1,3,5,6]` | `3` |
 | `citations = [1,2,100]` | `2` |
 
-## Constraints
+### Constraints
 
 - `n == citations.length`
 - `1 <= n <= 10^5`
 - `0 <= citations[i] <= 1000`
 - `citations` is sorted in ascending order
-
-**URL:** https://leetcode.com/problems/h-index-ii/
 
 ---
 

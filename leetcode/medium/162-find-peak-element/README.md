@@ -1,5 +1,7 @@
 # 162 - Find Peak Element
 
+**URL:** https://leetcode.com/problems/find-peak-element/
+
 **Tags:** 
 
 ## Problem
@@ -12,20 +14,18 @@ You may imagine that `nums[-1] = nums[n] = -∞`. In other words, an element is 
 
 **You must write an algorithm that runs in O(log n) time.**
 
-## Examples
+### Examples
 
 | Input | Output |
 |-------|--------|
 | `nums = [1,2,3,1]` | `2` |
 | `nums = [1,2,1,3,5,6,4]` | `5` |
 
-## Constraints
+### Constraints
 
 - `1 <= nums.length <= 1000`
 - `-2^31 <= nums[i] <= 2^31 - 1`
 - `nums[i] != nums[i + 1]` for all valid i
-
-**URL:** https://leetcode.com/problems/find-peak-element/
 
 ---
 

@@ -1,5 +1,7 @@
 # 20 - Valid Parentheses
 
+**URL:** https://leetcode.com/problems/valid-parentheses/
+
 **Tags:** #stack #LIFO #string
 
 ## Problem
@@ -12,7 +14,7 @@ An input string is valid if:
 2. Open brackets must be closed in the correct order.
 3. Every close bracket has a corresponding open bracket of the same type.
 
-## Examples
+### Examples
 
 | Input | Output |
 |-------|--------|
@@ -22,16 +24,15 @@ An input string is valid if:
 | `"([])"` | `true` |
 | `"([)]"` | `false` |
 
-## Constraints
+### Constraints
 
 - `1 <= s.length <= 10^4`
 - `s` consists of parentheses only `'()[]{}'`
 
-**URL:** https://leetcode.com/problems/valid-parentheses/
-
 ---
 
 ## My Notes
+
 Looking at the problem it wants to check if the string has the right order and opening and closing brackets for each type.
 
 I started to think, When the string will be invalid? :
