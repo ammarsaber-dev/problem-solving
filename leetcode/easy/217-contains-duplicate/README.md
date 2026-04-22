@@ -2,7 +2,7 @@
 
 **URL:** https://leetcode.com/problems/contains-duplicate/
 
-**Tags:** 
+**Tags:** #array
 
 ## Problem
 

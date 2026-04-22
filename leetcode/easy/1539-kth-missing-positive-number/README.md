@@ -2,7 +2,7 @@
 
 **URL:** https://leetcode.com/problems/kth-missing-positive-number/
 
-**Tags:** 
+**Tags:** #array #binary-search
 
 ## Problem
 

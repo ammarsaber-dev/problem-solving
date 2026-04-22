@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/easy/338-counting-bits/README.md",
+                "file": "leetcode/easy/191-number-of-1-bits/README.md",
                 "mode": "preview",
                 "source": false
               },
@@ -186,10 +186,17 @@
   },
   "active": "28ae090015caa0e3",
   "lastOpenFiles": [
-    "leetcode/easy/338-counting-bits/solution.swift",
-    "leetcode/easy/20-valid-parentheses/README.md",
+    "leetcode/easy/1672-richest-customer-wealth/README.md",
+    "leetcode/easy/2089-find-target-indices/README.md",
+    "leetcode/easy/1539-kth-missing-positive-number/README.md",
+    "leetcode/easy/1295-find-numbers-with-even-digits/README.md",
+    "leetcode/easy/242-valid-anagram/README.md",
     "leetcode/easy/217-contains-duplicate/README.md",
+    "leetcode/easy/20-valid-parentheses/README.md",
+    "leetcode/easy/217-contains-duplicate/solution.swift",
+    "leetcode/easy/191-number-of-1-bits/README.md",
     "leetcode/easy/338-counting-bits/README.md",
+    "leetcode/easy/338-counting-bits/solution.swift",
     "leetcode/easy/338-counting-bits",
     "leetcode/easy/20-valid-parentheses/solution.swift",
     "leetcode/easy/20-valid-parentheses/solution.cpp",
@@ -201,8 +208,6 @@
     "README.md",
     "exercism/README.md",
     "swift",
-    "leetcode/easy/242-valid-anagram/README.md",
-    "leetcode/easy/1295-find-numbers-with-even-digits/README.md",
     "advent-of-code/README.md"
   ]
 }

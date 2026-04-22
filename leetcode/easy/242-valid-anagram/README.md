@@ -2,7 +2,7 @@
 
 **URL:** https://leetcode.com/problems/valid-anagram/
 
-**Tags:** 
+**Tags:** #string
 
 ## Problem
 

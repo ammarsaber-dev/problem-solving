@@ -2,7 +2,7 @@
 
 **URL:** https://leetcode.com/problems/richest-customer-wealth/
 
-**Tags:** 
+**Tags:** #matrix #2d-array #inner-loop
 
 ## Problem
 

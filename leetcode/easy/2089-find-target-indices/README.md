@@ -2,7 +2,7 @@
 
 **URL:** https://leetcode.com/problems/find-target-indices-after-sorting-array/
 
-**Tags:** 
+**Tags:** #array #binary-search 
 
 ## Problem
 
