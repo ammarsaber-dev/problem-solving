@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/easy/191-number-of-1-bits/README.md",
-                "mode": "preview",
+                "file": "leetcode/easy/70-climbing-stairs/README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -184,8 +184,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "28ae090015caa0e3",
+  "active": "dc87981600984b22",
   "lastOpenFiles": [
+    "_assets",
+    "_assets/Screenshot 2026-04-22 at 5.45.18 PM.png",
+    "leetcode/easy/70-climbing-stairs/solution.swift",
+    "leetcode/easy/191-number-of-1-bits/README.md",
+    "leetcode/easy/70-climbing-stairs/README.md",
+    "leetcode/easy/70-climbing-stairs",
     "leetcode/easy/1672-richest-customer-wealth/README.md",
     "leetcode/easy/2089-find-target-indices/README.md",
     "leetcode/easy/1539-kth-missing-positive-number/README.md",
@@ -194,7 +200,6 @@
     "leetcode/easy/217-contains-duplicate/README.md",
     "leetcode/easy/20-valid-parentheses/README.md",
     "leetcode/easy/217-contains-duplicate/solution.swift",
-    "leetcode/easy/191-number-of-1-bits/README.md",
     "leetcode/easy/338-counting-bits/README.md",
     "leetcode/easy/338-counting-bits/solution.swift",
     "leetcode/easy/338-counting-bits",
